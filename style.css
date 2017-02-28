@@ -1,0 +1,23 @@
+#luba{
+  transform: rotate(90deg);
+
+}
+
+.header{
+  padding-right: 20em;
+}
+img#intro{
+  width: 20%;
+  padding-right: 80em;
+  padding-bottom: 3em;
+}
+/*.container{
+  display: inline;
+}*/
+.city {
+  /*padding-bottom: -20em;*/
+}
+city{
+  width= 40%
+  height= 60%
+}
